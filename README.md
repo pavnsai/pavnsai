@@ -1,4 +1,6 @@
-[![MasterHead] "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif"]
+<p align="center">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/271629851/original/8103bddcde5463839e7e39b7ab87b710c68f39f3/be-your-full-stack-developer-in-react-js-node-js-mongo-db.jpeg" alt="Full Stack Developer">
+</p>
 <h1 align="center">Hi 👋, I'm Pavan Sai Appari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
