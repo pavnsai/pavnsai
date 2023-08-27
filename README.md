@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **pavan.appari@colorado.edu**
 - 📄 Know about my experiences [Pavan_Sai_Resume](https://drive.google.com/drive/folders/19vRLiTzeTdxFZzOtRxGvx-Q17kZj8Am6?usp=drive_link)
-- 
 - To explore my website, please visit [FreeLanceProMarket](https://freelancepromarket.com/).
 
 <h3 align="left">Connect with me:</h3>
