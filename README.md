@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://freelancepromarket.com/" target="_blank">
+    <a href="https://freelancepromarket.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/271629851/original/8103bddcde5463839e7e39b7ab87b710c68f39f3/be-your-full-stack-developer-in-react-js-node-js-mongo-db.jpeg" alt="Full Stack Developer">
     </a>
 </p>
