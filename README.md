@@ -1,4 +1,4 @@
-[![MasterHead] <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">]
+[![MasterHead] "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif"]
 <h1 align="center">Hi 👋, I'm Pavan Sai Appari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
