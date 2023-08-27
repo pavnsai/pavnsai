@@ -11,8 +11,9 @@
 - 💬 Ask me about **AWS, ReactJS, JavaScript, NodeJS, Java, Python**
 
 - 📫 How to reach me **pavan.appari@colorado.edu**
-
-- To explore my website, please visit [https://freelancepromarket.com/](https://freelancepromarket.com/).
+- 📄 Know about my experiences [Pavan_Sai_Resume](https://drive.google.com/drive/folders/19vRLiTzeTdxFZzOtRxGvx-Q17kZj8Am6?usp=drive_link)
+- 
+- To explore my website, please visit [FreeLanceProMarket](https://freelancepromarket.com/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
